@@ -1,7 +1,5 @@
 # RISCV-Training
 
-Training Materials for RISC-V HW/SW, focusing on compilers, emulators, and virtual machines. provided by PLCT Lab.
-
 The PLCT Lab is a toolchain team focusing on RISC-V related compilers, emulators, and language virtual machines.
 It is part of Intelligence Software Research Center (ISRC), which is part of Institute of Software,
 Chinese Academy of Sciences (ISCAS).
