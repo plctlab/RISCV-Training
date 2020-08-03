@@ -10,16 +10,16 @@ The PLCT Lab is providing RISC-V related skill training, including:
 - Add new CPU or Machine/SoC emulations in QEMU.
 - Extend Spike Emulator for custom purpose.
 
-By joining the training program, you could get involved with the latest feature implementations
-among mulitple open source softwares. For example:
-- RISC-V Vector Extension in LLVM
-- XuanTie C910 LLVM toolchain development
-- Neclei SoC support in QEMU
-- New feature implementation for Spike
-- Performance, Code Size, and other evaluation for RISC-V toolchains
+By joining the training program, you could get involved with the latest feature developing
+among mulitple open source porjects. For example:
+- RISC-V Vector Extension in LLVM upstream.
+- XuanTie C910 LLVM toolchain development and support.
+- Neclei N300 Series SoC and other new SoCsupport in QEMU.
+- New feature implementations for Spike emulator.
+- Code size and Performance evaluations for RISC-V toolchains.
 
 The Training Program is still in the early development stage. We welcome college students and anyone who is
-interested in RISC-V software ecosystem to join the program, work together to improve the project.
+interested in RISC-V software ecosystem to join the program as pilot, work together to improve the project.
 
 Currently the training materials are mainly in Simplified Chinese language. We are working on translating
 the materials in to English and possibily other languages. Volunteers are welcome!
