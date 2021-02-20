@@ -3,11 +3,18 @@
 目前 PLCT 实验室主要提供编译器课程的培训。目前只有中文。欢迎通过实习形式加入到具体的项目开发中，或参与旁听PLCT编译技术讨论班（见下方）。
 同时，英文版课程以及模拟器相关课程也在准备中，敬请期待。
 
+## 编译技术入门与实战·第三季·2021年4月
+
+敬请期待。本期将在前两期的基础上，结合LLVM源代码，讲解10个常用算法。最后实现一个RISC-V优化的大作业。
 
 ## PLCT编译器设计讨论班（2020秋）
 
 每周五、周六的下午3点到4点之间进行讨论课，线上腾讯会议的形式，欢迎加入讨论。进入方式是添加我（lazyparser）的微信 fangzhang1024 （备注编译课程）进入微信学习群，每次会议的通知会在群里发出来。以及一些资源也会在群里贴出。
 
+- 第16次讨论：RISC-V ABI 介绍 by 林思南 [video](https://www.bilibili.com/video/BV1bz4y1S71o)
+- 第15次讨论：GCC入门（二）RTL by 陈嘉炜 [video](https://www.bilibili.com/video/BV1gy4y1H7bg)
+- 第14次讨论：上手开发GCC-陈嘉炜 [video](https://www.bilibili.com/video/BV1Nf4y1y7Bz)
+- 第13次讨论：RVV-LLVM设计、shecc代码、RISCV反汇编器、EEMBC [video](https://www.bilibili.com/video/BV1Uz4y1r7sq)
 - 第13次讨论：RVV-LLVM设计、shecc代码、RISCV反汇编器、EEMBC [video](https://www.bilibili.com/video/BV1Uz4y1r7sq)
 - 第12次讨论：LLVM栈对齐、shecc libc、zfinx gdb反汇编支持 [video](https://www.bilibili.com/video/BV1AT4y1u7ys)
 - 第11次讨论：LLVM寄存器表示、RISC-V指令集学习方法 [video](https://www.bilibili.com/video/BV1kp4y1z7JU)
