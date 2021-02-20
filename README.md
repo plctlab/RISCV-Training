@@ -1,7 +1,7 @@
 # RISCV-Training
 
 Currently our training materials are in Chinese language. Please check [Zh-CN](README.cn.md) for more contents.
-Also check [our seminar recordings on Bilibili](https://space.bilibili.com/296494084)
+Also check [our seminar recordings on Bilibili](https://space.bilibili.com/296494084).
 The English version is coming soon.
 
 The PLCT Lab is a toolchain team focusing on RISC-V related compilers, emulators, and language virtual machines.
