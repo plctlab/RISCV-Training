@@ -18,6 +18,7 @@
 
 7. [芯来科技：RISC-V处理器设计](https://space.bilibili.com/398205429)
 
+8. [Introduction to RISC-V](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFD110x+1T2021/home)
 
 ## Global Summit
 
