@@ -5,7 +5,15 @@
 
 ## 编译技术入门与实战·第三季·2021年4月
 
-敬请期待。本期将在前两期的基础上，结合LLVM源代码，讲解10个常用算法。最后实现一个RISC-V优化的大作业。
+本期将在前两期的基础上，结合LLVM源代码，讲解10个常用算法。最后实现一个RISC-V优化的大作业。
+
+视频地址：
+
+https://www.bilibili.com/video/BV14b4y1X7uX/
+
+仓库地址：
+
+https://www.bilibili.com/video/BV14b4y1X7uX/
 
 ## PLCT编译器设计讨论班（2020秋）aka 编译技术入门与实战·第二季
 
