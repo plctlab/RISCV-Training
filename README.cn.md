@@ -3,6 +3,52 @@
 目前 PLCT 实验室主要提供编译器课程的培训。目前只有中文。欢迎通过实习形式加入到具体的项目开发中，或参与旁听PLCT编译技术讨论班（见下方）。
 同时，英文版课程以及模拟器相关课程也在准备中，敬请期待。
 
+
+## 手搓 RISC-V 高性能模拟器 · 2023 年 4 月
+
+在本课程中，我们将使用 C 语言从零开始实现一个高性能 RISC-V 64 位模拟器。在课程的最后，我们会得到一个代码量 4000 行左右的，零依赖的用户态程序模拟器，可以运行一些真实世界的程序，比如 Lua 4.0。如果读者好奇 JIT 模拟器的工作原理，那么本课程正是为你准备的。
+
+视频地址：
+
+https://space.bilibili.com/296494084/channel/collectiondetail?sid=1245472
+
+仓库地址：
+
+https://github.com/ksco/rvemu
+
+课程网站：
+
+https://ksco.cc/rvemu/
+
+## 从零开始实现链接器 · 2022 年秋季
+
+在本课程中，我们会从零开始使用 Go 语言实现一个 RV64GC（RISC-V 64 位）架构的链接器，可以正确地链接相对简单的 C 程序。通过学习本课程，我们可以掌握链接器最核心部分的工作原理。
+
+视频地址：
+
+https://space.bilibili.com/296494084/channel/collectiondetail?sid=857032
+
+仓库地址：
+
+https://github.com/ksco/rvld
+
+课程网站：
+
+https://ksco.cc/rvld/
+
+## 徒手写一个 RISC-V 编译器 · 2022 年 7 月
+
+本课程基于 rui314 的 chibicc，由原来的 X86 架构改写为 RISC-V 64 架构，同时加入了大量的中文注释，并且配有 316 节对应于每一个 commit 的课程，帮助读者可以层层推进、逐步深入地学习编译器的构造。
+
+视频地址：
+
+https://space.bilibili.com/296494084/channel/collectiondetail?sid=571708
+
+仓库地址：
+
+https://github.com/sunshaoce/rvcc
+
+
 ## 编译技术入门与实战·第三季·2021年4月
 
 本期将在前两期的基础上，结合LLVM源代码，讲解10个常用算法。最后实现一个RISC-V优化的大作业。
