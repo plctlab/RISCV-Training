@@ -13,7 +13,7 @@ https://www.bilibili.com/video/BV14b4y1X7uX/
 
 仓库地址：
 
-https://www.bilibili.com/video/BV14b4y1X7uX/
+https://github.com/lazyparser/becoming-a-compiler-engineer
 
 ## PLCT编译器设计讨论班（2020秋）aka 编译技术入门与实战·第二季
 
